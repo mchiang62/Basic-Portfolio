@@ -1,0 +1,27 @@
+header {
+    background-color: white
+}
+
+#name {
+    border-style: solid;
+    border-color: #4aaaa5;
+    background-color: #4aaaa5;
+    color: white;
+    width: 220px;
+
+}
+
+#pages {
+    float: right;
+
+}
+
+body {
+    background-image: url('/assets/images/beige-tiles.gif');
+}
+
+.paragraphs {
+    background-color: white;
+    
+
+}
