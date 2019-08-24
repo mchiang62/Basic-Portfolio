@@ -10,7 +10,7 @@ header {
     width: 100%;
     height: 80px;
     border-bottom: 1px solid gray;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    
     
 
 
@@ -19,14 +19,14 @@ header {
 #name {
     color: white;
     width: 250px;
-    margin-left: 35px;
+    margin-left: 110px;
     display: block;
     padding: 19px;
     border-style: solid;
     border-color: #4aaaa5;
     background-color: #4aaaa5;
     float: left;
-
+    font-family: 'Georgia', Times, Times New Roman, serif;
 
 
 
@@ -35,9 +35,10 @@ header {
 
 .links {
     float: right;
-    margin-right: 30px;
+    margin-right: 110px;
     padding: px 20px 0px 100px;
     margin-top: 35px;
+    font-size: 12px;
 
 }
 
@@ -45,6 +46,7 @@ body {
     background-image: url('/assets/images/beige-tiles.gif');
     background-color: white;
     height: 100vh;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     
     
 
@@ -57,8 +59,7 @@ body {
     margin: auto;
     display: block;
     padding: 20px;
-    margin-top: 25px;
-    
+    margin-top: 25px; 
 
     
     
@@ -70,10 +71,12 @@ p{
 
 h2 {
     color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-img {
+#aboutpic {
     float: left;
+    margin-right: 12px;
 
 
 }
@@ -87,7 +90,6 @@ img {
     color: white;
     margin-top: 40vh;
 
-    
 
 }
 
@@ -101,9 +103,12 @@ textarea {
 }
 
 button {
-    width: 135px;
-    height: 50px;
-    
+    width: 115px;
+    height: 35px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    margin-top: 10px;
+
 
 
 }
