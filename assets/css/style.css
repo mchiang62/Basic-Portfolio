@@ -121,24 +121,7 @@ img {
     width: 175px;
 }
 
-#one {
-    
 
-}
-
-#two {
-    
-
-}
-
-#three {
-  
-
-}
-
-#four {
-   
-}
 
 .container {
     width: 80%;
@@ -153,8 +136,8 @@ img {
 .bottomcenter {
     width: 100%;
     position: relative;
-    margin-top: ;
-    
+    margin-bottom: 40px;
+  
 }
 
 .bottomcenter h3{
@@ -164,6 +147,8 @@ img {
     border-color: #4aaaa5;
     background-color: #4aaaa5;
     padding: 7px;
+    margin-top: -55px;
     
 
 }
+
