@@ -37,7 +37,7 @@ header {
 }
 
 body {
-    background-image: url('/assets/images/beige-tiles.gif');
+    background-image: url('../images/beige-tiles.gif');
     background-color: white;
     height: 100vh;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
