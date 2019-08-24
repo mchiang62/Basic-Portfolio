@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0px: list-style: none;
+    padding: 0px; list-style: none;
     text-decoration: none;
 }
 
@@ -10,9 +10,6 @@ header {
     width: 100%;
     height: 80px;
     border-bottom: 1px solid gray;
-    
-    
-
 
 }
 
@@ -27,9 +24,6 @@ header {
     background-color: #4aaaa5;
     float: left;
     font-family: 'Georgia', Times, Times New Roman, serif;
-
-
-
 
 }
 
@@ -60,8 +54,6 @@ body {
     display: block;
     padding: 20px;
     margin-top: 25px; 
-
-    
     
 }
 
@@ -95,8 +87,6 @@ h3 {
     border-top: 8px solid #4aaaa5;
     color: white;
 
-       
-
 }
 
 a {
@@ -121,7 +111,6 @@ img {
     height: 135px;
     width: 175px;
 }
-
 
 
 .container {
