@@ -74,6 +74,10 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
 #aboutpic {
     float: left;
     margin-right: 12px;
@@ -83,13 +87,14 @@ h2 {
 
 #footer {
     background-color: #666666;
-    position: relative;
+    position: fixed;
     height: 75px;
     text-align: center;
     border-top: 8px solid #4aaaa5;
     color: white;
-    margin-top: 40vh;
-
+    bottom: 0;
+    left: 0;
+    width: 100%;
 
 }
 
@@ -109,6 +114,56 @@ button {
     background-color: #4aaaa5;
     margin-top: 10px;
 
+}
 
+img {
+    height: 135px;
+    width: 175px;
+}
+
+#one {
+    
+
+}
+
+#two {
+    
+
+}
+
+#three {
+  
+
+}
+
+#four {
+   
+}
+
+.container {
+    width: 80%;
+    
+}
+
+.container img {
+    width: 100%;
+    
+}
+
+.bottomcenter {
+    width: 100%;
+    position: relative;
+    margin-top: ;
+    
+}
+
+.bottomcenter h3{
+    text-align: center;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #4aaaa5;
+    background-color: #4aaaa5;
+    padding: 7px;
+    
 
 }
