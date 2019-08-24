@@ -80,21 +80,22 @@ h3 {
 
 #aboutpic {
     float: left;
-    margin-right: 12px;
+    margin-right: 18px;
+    margin-bottom: 15px;
 
 
 }
 
 #footer {
     background-color: #666666;
-    position: fixed;
+    position: relative;
     height: 75px;
+    margin-top: 32vh;
     text-align: center;
     border-top: 8px solid #4aaaa5;
     color: white;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+
+       
 
 }
 
